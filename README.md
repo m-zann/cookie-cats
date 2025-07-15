@@ -88,4 +88,4 @@ Open the provided URL (usually <http://localhost:8501>) in your browser.
 ---
 
 ## License
-Released under the MIT License © 2025-07-15
+Released under the MIT License
